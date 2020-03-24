@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 /* class Square extends React.Component {
-  render()k()}
+  render() {
       >
     //...added parentheses so that JavaScript doesn’t insert a semicolon after return and break our code.
     return (
